@@ -56,7 +56,7 @@ Una aplicación sencilla de escritorio para Windows, desarrollada en C# con Wind
 
 ## 📦 Instalación
 
-La aplicación se distribuye como un **ejecutable portable de un solo archivo**. Simplemente descarga el archivo `ShutdownApp.exe` de la [sección de Releases](https://github.com/Pablitus666/ShutdownApp/releases) y ejecútalo.
+La aplicación se distribuye como un **ejecutable portable de un solo archivo**. Simplemente descarga el archivo `ShutdownApp.exe` de la [sección de Releases](https://github.com/Pablitus666/Shutdown/releases) y ejecútalo.
 
 ## 🔐 Firma Digital
 
