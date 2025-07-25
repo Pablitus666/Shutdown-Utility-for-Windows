@@ -47,7 +47,7 @@ La aplicación se distribuye como un Ejecutable Portable de un solo archivo.
 
 ## 📋 Requisitos
 
-*   **Sistema Operativo:** Compatible con Windows 7 y versiones posteriores (probado en Windows 8, 8.1, 10 y 11).
+*   **Sistema Operativo:** Funciona en Windows 7, 8, 8.1, 10 y 11.
 *   **.NET Runtime:** La aplicación está compilada para .NET 6.0. Si el sistema no lo tiene preinstalado, es posible que se requiera la instalación del [.NET 6.0 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/6.0/runtime).
 
 ## 🚀 Uso
