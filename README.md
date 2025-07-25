@@ -2,6 +2,8 @@
 
 Una aplicación sencilla de escritorio para Windows, desarrollada en C# con Windows Forms que permite programar fácilmente el apagado de tu PC en un tiempo determinado. Ofrece una interfaz de usuario intuitiva, botones personalizados, soporte para múltiples idiomas, y una gestión robusta de los comandos del sistema.
 
+![Social Preview](images/Preview.png)
+
 ---
 
 ## 🚀 Badges
@@ -56,7 +58,10 @@ Una aplicación sencilla de escritorio para Windows, desarrollada en C# con Wind
 
 ## 📦 Instalación
 
-La aplicación se distribuye como un **ejecutable portable de un solo archivo**. Simplemente descarga el archivo `ShutdownApp.exe` de la [sección de Releases](https://github.com/Pablitus666/ShutdownApp/releases) y ejecútalo.
+1.  Ve a la [**sección de Releases**](https://github.com/Pablitus666/Shutdown-Utility-for-Windows/releases) para encontrar la última versión.
+2.  Descarga el archivo `ShutdownApp.zip` que encontrarás en la sección de **Assets**.
+3.  Descomprime el archivo en la ubicación que prefieras.
+4.  ¡Listo! Ya puedes ejecutar `ShutdownApp.exe`.
 
 ## 🔐 Firma Digital
 
