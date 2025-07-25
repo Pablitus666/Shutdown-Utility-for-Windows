@@ -63,6 +63,7 @@ Una aplicación sencilla de escritorio para Windows, desarrollada en C# con Wind
 3.  Descomprime el archivo en la ubicación que prefieras.
 4.  ¡Listo! Ya puedes ejecutar `ShutdownApp.exe`.
 
+
 ## 🔐 Firma Digital
 
 Este ejecutable está firmado digitalmente para proporcionar una capa adicional de seguridad. Aunque la firma es con un certificado autofirmado, verifica la autenticidad del editor y asegura que el archivo no ha sido alterado.
