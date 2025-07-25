@@ -1,6 +1,7 @@
 # 💻 ShutdownApp - Apagado Programado (C#)
 
 Una aplicación sencilla de escritorio para Windows, desarrollada en C# con Windows Forms que permite programar fácilmente el apagado de tu PC en un tiempo determinado. Ofrece una interfaz de usuario intuitiva, botones personalizados, soporte para múltiples idiomas, y una gestión robusta de los comandos del sistema.
+La aplicación se distribuye como un Ejecutable Portable de un solo archivo.
 
 ![Social Preview](images/Preview.png)
 
@@ -46,7 +47,7 @@ Una aplicación sencilla de escritorio para Windows, desarrollada en C# con Wind
 
 ## 📋 Requisitos
 
-*   **Sistema Operativo:** Windows 7 o superior.
+*   **Sistema Operativo:** Compatible con Windows 7 y versiones posteriores (probado en Windows 8, 8.1, 10 y 11).
 *   **.NET Runtime:** La aplicación está compilada para .NET 6.0. Si el sistema no lo tiene preinstalado, es posible que se requiera la instalación del [.NET 6.0 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/6.0/runtime).
 
 ## 🚀 Uso
