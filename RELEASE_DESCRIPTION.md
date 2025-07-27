@@ -1,6 +1,6 @@
 ## 🖥️ ShutdownApp - Programador de Apagado para Windows
 
-Esta es una nueva versión de **ShutdownApp**, una aplicación de escritorio sencilla y portable para programar el apagado de tu PC.
+**ShutdownApp** Una aplicación de escritorio sencilla y portable para programar el apagado de tu PC.
 La aplicación se distribuye como un **Ejecutable Portable de un solo archivo**.
 
 ### ✨ Características Principales
