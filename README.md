@@ -9,7 +9,8 @@ La aplicación se distribuye como un Ejecutable Portable de un solo archivo.
 
 ## 🚀 Badges
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Releases](https://img.shields.io/badge/releases-view-brightgreen.svg)](https://github.com/Pablitus666/Shutdown-Utility-for-Windows/releases)
 [![Platform: Windows](https://img.shields.io/badge/Platform-Windows-blue.svg)](https://docs.microsoft.com/en-us/windows/)
 [![GUI: Windows Forms](https://img.shields.io/badge/GUI-Windows%20Forms-purple.svg)](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/)
 [![Language: C#](https://img.shields.io/badge/Language-C%23-green.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
